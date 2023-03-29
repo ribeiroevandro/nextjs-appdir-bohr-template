@@ -1,0 +1,35 @@
+{
+  "name": "nextjs-appdir-bohr-template",
+  "version": "0.0.1",
+  "private": true,
+  "author": "Evandro Ribeiro <ribeiroevandro@live.com> (https://github.com/ribeiroevandro)",
+  "description": "A basic Next.js template with the app directory set up.",
+  "keywords": [
+    "nextjs",
+    "template",
+    "bohr-io"
+  ],
+  "repository": "https://github.com/ribeiroevandro/nextjs-appdir-bohr-template",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ribeiroevandro/nextjs-appdir-bohr-template/issues"
+  },
+  "homepage": "https://github.com/ribeiroevandro/nextjs-appdir-bohr-template#readme",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/node": "18.15.11",
+    "@types/react": "18.0.31",
+    "@types/react-dom": "18.0.11",
+    "eslint": "8.37.0",
+    "eslint-config-next": "13.2.4",
+    "next": "13.2.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "typescript": "5.0.2"
+  }
+}
